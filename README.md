@@ -11,4 +11,5 @@ Made in C++
 If applied correctly, its possible to prevent exe bin bans (Vanguard anti cheats).
 
 Made with crow: https://github.com/CrowCpp/Crow
-Discord: fotonszz
+
+Discord: `fotonszz`
